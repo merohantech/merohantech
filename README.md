@@ -46,8 +46,6 @@ Full-Stack & AI Engineer from **Panipat, Haryana**. I specialize in architecting
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merohantech&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merohantech&theme=radical&layout=compact&hide_border=true&hide=html,css)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=merohantech&theme=radical&hide_border=true)
 
 ---
