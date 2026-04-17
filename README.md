@@ -1,89 +1,72 @@
 # Hi there, I'm Rohan Sharam 👋
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=header&text=Rohan%20Sharma&fontSize=40" alt="Banner" />
+</p>
+
 **AWS Certified Developer** | **Top Rated on Upwork** | **100% Client Success Rate**
 
-Full-Stack & AI Engineer from Panipat, Haryana. I specialize in building **scalable SaaS platforms**, AI agents, and production-ready applications using modern cloud and full-stack technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+%26+AI+Engineer;Building+Scalable+SaaS+Platforms;AI+Agents+%26+Multi-Cloud+Expert;Next.js+%2F+FastAPI+%2F+React+Native&font=Fira+Code&color=0E75B6&center=true&vCenter=true&width=680&height=50&size=22" alt="Typing Animation" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=merohantech&color=0e75b6&style=flat&label=Profile+Views)
+Full-Stack & AI Engineer from **Panipat, Haryana**. I specialize in architecting and delivering **production-grade SaaS platforms**, intelligent AI agents, and high-performance applications across multiple clouds.
+
+![Profile Views](https://komarev.com/ghpvc/?username=merohantech&color=0e75b6&style=for-the-badge)
 
 ---
 
-## 🚀 Expertise & Tech Stack
+## 🚀 Expertise
 
-### **Cloud Platforms**
+### Cloud & Deployment
 ![AWS](https://skillicons.dev/icons?i=aws) 
 ![GCP](https://skillicons.dev/icons?i=gcp) 
 ![Azure](https://skillicons.dev/icons?i=azure) 
 ![Vercel](https://skillicons.dev/icons?i=vercel) 
 ![Railway](https://skillicons.dev/icons?i=railway)
 
-### **Frontend & Mobile**
+### Frontend & Mobile
 ![Next.js](https://skillicons.dev/icons?i=nextjs) 
 ![React](https://skillicons.dev/icons?i=react) 
 ![TypeScript](https://skillicons.dev/icons?i=typescript) 
 ![React Native](https://skillicons.dev/icons?i=react)
 
-### **Backend & Languages**
+### Backend & AI/ML
 ![Node.js](https://skillicons.dev/icons?i=nodejs) 
-![Express](https://skillicons.dev/icons?i=express) 
 ![Python](https://skillicons.dev/icons?i=python) 
 ![FastAPI](https://skillicons.dev/icons?i=fastapi) 
-![Go](https://skillicons.dev/icons?i=go)
-
-### **AI/ML & Others**
-**AI Agents • Machine Learning • Cursor • Web Scraping • SaaS • PaaS**
-
-![AI Tools](https://skillicons.dev/icons?i=ai,python,docker)
+![Go](https://skillicons.dev/icons?i=go) 
+**AI Agents • Cursor • Web Scraping • Docker**
 
 ---
 
-## 🏆 Key Highlights
+## 🏆 Professional Highlights
 - **AWS Certified Developer**
-- **Top Rated** freelancer on Upwork with **100% Job Success Score**
-- Delivered dozens of successful client projects — from SaaS platforms to AI-powered tools
-- Experienced in deploying applications on **AWS, GCP, Azure, Vercel & Railway**
+- Top Rated freelancer on Upwork with **100% Job Success Score**
+- Built and deployed multiple SaaS products and AI-powered solutions for clients worldwide
+- Strong experience in scalable architecture, serverless, and multi-cloud deployments
 
 ---
 
-## 💼 What I Build
-- Scalable **SaaS Platforms** & **PaaS** solutions
-- Intelligent **AI Agents** and AI/ML integrations
-- Modern **Full-Stack Web Apps** (Next.js + FastAPI / Node.js)
-- **React Native** mobile applications
-- **Web Scraping & Automation** tools
-- Multi-cloud and serverless architectures
+## 📊 GitHub Activity
 
----
-
-## 📊 Live GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merohantech&theme=radical&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merohantech&theme=radical&layout=compact&hide_border=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merohantech&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merohantech&theme=radical&layout=compact&hide_border=true&hide=html,css)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=merohantech&theme=radical&hide_border=true)
 
 ---
 
-## 🐍 Contribution Snake (Fun Animation)
+## 📫 Let's Connect
 
-![Snake](https://github.com/merohantech/merohantech/blob/output/github-contribution-grid-snake.svg)
-
-*(This snake animates based on your contribution graph – it updates automatically)*
-
----
-
-## 📫 Connect With Me
-
-[![Upwork](https://img.shields.io/badge/Upwork-00A200?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/merohantech)  <!-- Update with your real link -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Upwork](https://img.shields.io/badge/Upwork-00A200?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/merohantech) <!-- Replace with your exact Upwork link -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@ghawktech.com)
 
-**Currently open to**:
-- Freelance / Upwork projects
-- SaaS product development
-- AI Agent collaborations
+**Currently open to:**
+- Freelance / Upwork projects (SaaS, AI Agents, Full-Stack)
+- AI-powered product development
 - Long-term client partnerships
 
 ---
 
-*Building the future with clean code and cutting-edge tech* ❤️
+*Clean code. Reliable systems. Real results.* ❤️
