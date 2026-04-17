@@ -3,7 +3,7 @@
 **AWS Certified Developer** | **Top Rated on Upwork** | **100% Client Success Rate**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+%26+AI+Engineer;Building+Scalable+SaaS+Platforms;AI+Agents+%26+Multi-Cloud+Expert;Next.js+%2F+FastAPI+%2F+React+Native&font=Fira+Code&color=0E75B6&center=true&vCenter=true&width=680&height=50&size=22" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+%26+AI+Engineer;Building+Scalable+SaaS+Platforms;AI+Agents+%26+Multi-Cloud+Expert;Next.js+%2F+FastAPI+%2F+React+Native&font=Fira+Code&color=0E75B6&center=true&vCenter=true&width=700&height=50&size=22" alt="Typing Animation" />
 </p>
 
 Full-Stack & AI Engineer from **Panipat, Haryana**. I specialize in architecting and delivering **production-grade SaaS platforms**, intelligent AI agents, and high-performance applications across multiple clouds.
@@ -31,7 +31,8 @@ Full-Stack & AI Engineer from **Panipat, Haryana**. I specialize in architecting
 ![Node.js](https://skillicons.dev/icons?i=nodejs) 
 ![Python](https://skillicons.dev/icons?i=python) 
 ![FastAPI](https://skillicons.dev/icons?i=fastapi) 
-![Go](https://skillicons.dev/icons?i=go) 
+![Go](https://skillicons.dev/icons?i=go)
+
 **AI Agents • Cursor • Web Scraping • Docker**
 
 ---
@@ -44,7 +45,7 @@ Full-Stack & AI Engineer from **Panipat, Haryana**. I specialize in architecting
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=merohantech&theme=radical&hide_border=true)
 
@@ -52,7 +53,7 @@ Full-Stack & AI Engineer from **Panipat, Haryana**. I specialize in architecting
 
 ## 📫 Let's Connect
 
-[![Upwork](https://img.shields.io/badge/Upwork-00A200?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/merohantech) <!-- Replace with your exact Upwork link -->
+[![Upwork](https://img.shields.io/badge/Upwork-00A200?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/merohantech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@ghawktech.com)
 
