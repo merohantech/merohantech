@@ -1,9 +1,5 @@
 # Hi there, I'm Rohan Sharam 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=header&text=Rohan%20Sharma&fontSize=40" alt="Banner" />
-</p>
-
 **AWS Certified Developer** | **Top Rated on Upwork** | **100% Client Success Rate**
 
 <p align="center">
