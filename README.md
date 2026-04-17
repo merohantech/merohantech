@@ -55,18 +55,27 @@ Full-Stack & AI Engineer from Panipat, Haryana. I specialize in building **scala
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Live GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merohantech&theme=radical&hide_border=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merohantech&theme=radical&layout=compact&hide_border=true)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=merohantech&theme=radical&hide_border=true)
+
+---
+
+## 🐍 Contribution Snake (Fun Animation)
+
+![Snake](https://github.com/merohantech/merohantech/blob/output/github-contribution-grid-snake.svg)
+
+*(This snake animates based on your contribution graph – it updates automatically)*
 
 ---
 
 ## 📫 Connect With Me
 
-[![Upwork](https://img.shields.io/badge/Upwork-00A200?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/merohantech)  <!-- Replace with your actual Upwork link -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Upwork](https://img.shields.io/badge/Upwork-00A200?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/merohantech)  <!-- Update with your real link -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@ghawktech.com)
 
 **Currently open to**:
