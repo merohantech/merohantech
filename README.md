@@ -55,7 +55,7 @@ Full-Stack & AI Engineer from **Mohali, Chandigarh(India)**. I specialize in arc
 
 [![Upwork](https://img.shields.io/badge/Upwork-00A200?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~018ab5d05c9815135b)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merohantech/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.merohantech@gmail.com)
+[![Email](https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:merohantech@gmail.com)
 
 **Currently open to:**
 - Freelance / Upwork projects (SaaS, AI Agents, Full-Stack)
