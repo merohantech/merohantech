@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+%26+AI+Engineer;Building+Scalable+SaaS+Platforms;AI+Agents+%26+Multi-Cloud+Expert;Next.js+%2F+FastAPI+%2F+React+Native&font=Fira+Code&color=0E75B6&center=true&vCenter=true&width=700&height=50&size=22" alt="Typing Animation" />
 </p>
 
-Full-Stack & AI Engineer from **Panipat, Haryana**. I specialize in architecting and delivering **production-grade SaaS platforms**, intelligent AI agents, and high-performance applications across multiple clouds.
+Full-Stack & AI Engineer from **Mohali, Chandigarh(India)**. I specialize in architecting and delivering **production-grade SaaS platforms**, intelligent AI agents, and high-performance applications across multiple clouds.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=merohantech&color=0e75b6&style=for-the-badge)
 
